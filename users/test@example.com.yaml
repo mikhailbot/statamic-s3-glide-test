@@ -1,0 +1,8 @@
+name: Test
+super: true
+id: 3867d77e-2b92-4699-b3ab-361563197904
+password_hash: $2y$10$eRvz8emZUe3krWtkHZILeud0/EIh2HI3fLMHU0frQ6Q6PBqp.9yB.
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing
